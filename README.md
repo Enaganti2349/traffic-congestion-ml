@@ -20,6 +20,10 @@ Pandas, NumPy
 Scikit-learn
 Matplotlib
 
+## Model Performance
+
+![Model Results](screenshots/model_results.png)
+
 Results
 The trained model achieved high classification accuracy in predicting congestion categories.
 
