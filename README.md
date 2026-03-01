@@ -22,7 +22,7 @@ Matplotlib
 
 ## Model Performance
 
-![Model Results](screenshots/model_results.png)
+![Model Results](model_results.jpeg)
 
 Results
 The trained model achieved high classification accuracy in predicting congestion categories.
